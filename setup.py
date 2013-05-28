@@ -33,7 +33,9 @@ setup(name=project_name,
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
       classifiers=[
-        "Programming Language :: Python",
+          "Programming Language :: Python :: 2.7",
+          "Development Status :: 5 - Production/Stable",
+          "Topic :: Software Development :: Libraries"
       ],
       keywords='typeahead fanstatic',
       author='Merchise Autrement',
